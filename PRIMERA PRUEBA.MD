@@ -4,3 +4,7 @@ Hemos probado el arduino con  la app y no funcioanaba porque no esta configurado
 
 Lo que hace el arduino wa compilar y enviar, a la hora de abrir el puerto nos da error, eso es porque no tiene los permisos del ordenador.
 
+Conectamos los cables uno al GND i el otro a los 5v
+
+El circuito en serie es la eletricidad que se le da a un led la trasmite a los demas atraves de conductos de electricidad
+
