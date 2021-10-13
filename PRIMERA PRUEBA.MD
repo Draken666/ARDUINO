@@ -14,3 +14,42 @@ Hemos conectado dos botones con varios cables la resistencia tiene que estar en 
 
 
 
+##EL ERROR LO QUE PASO
+
+Lo que paso es que no habian permisos para escribir en el usb, congo una excepcion y se detuvo el programa, y esto sucedio por un tema de permisos de usuarios.
+
+##PRIMEROS CIRCUITOS
+
+Pese a funcionar y dar luz genera dos problemas, el primero se claienta y es incomodo de tocar, el segundo puede fundir el led.
+
+##CIRCUITOS EN SERIE
+
+Si desconectamos una parte todo se apaga, daigual simplemente se desconecta.
+
+CON BOTON
+
+si ponemos el boton en paralelo no funciona, si lo ponemos en serie si funciona, aparte añadimos una resistencia para que no se fund ael led.
+
+##APUNTES ELECTRICIDAD
+
+Voltaje --- Altura    (diferencia de potencial)
+
+La intensidad o el amperaje es la cantidad de agua o rotuladores.
+
+La resistencia el paso del agua o rotuladores, y la intensidad es = al voltaje/resistencia ley de OM
+
+VOLTAJE= intensidad x resistencia
+
+Rsistencia= Vltaje/Intensidad
+
+###POR QUE NECESITAMOS RESISTENCIAS CON LOS LEDS
+
+Tenemos 2 circuitos
+
+1 5V------2 GND
+
+El voltaje de los dos circuitos son 5v
+
+5 VOLTIOS/441=0'0122 Ampereos 11'33 miniampereos
+
+
