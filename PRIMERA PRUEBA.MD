@@ -54,5 +54,10 @@ El voltaje de los dos circuitos son 5v
 
 ![Captura de pantalla de 2021-10-13 10-58-12](https://user-images.githubusercontent.com/90753279/137101466-bf078db3-99d2-42b9-88e4-a33099f72677.png)
 
+He entrado al arduino y me da un error
+
+![Captura de pantalla de 2021-10-13 11-55-20](https://user-images.githubusercontent.com/90753279/137111454-09fbde3f-e2f7-4804-b1d8-f08e9696db12.png)
+
+
 
 
