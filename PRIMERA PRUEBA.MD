@@ -14,15 +14,15 @@ Hemos conectado dos botones con varios cables la resistencia tiene que estar en 
 
 
 
-##EL ERROR LO QUE PASO
+## EL ERROR LO QUE PASO
 
 Lo que paso es que no habian permisos para escribir en el usb, congo una excepcion y se detuvo el programa, y esto sucedio por un tema de permisos de usuarios.
 
-##PRIMEROS CIRCUITOS
+## PRIMEROS CIRCUITOS
 
 Pese a funcionar y dar luz genera dos problemas, el primero se claienta y es incomodo de tocar, el segundo puede fundir el led.
 
-##CIRCUITOS EN SERIE
+## CIRCUITOS EN SERIE
 
 Si desconectamos una parte todo se apaga, daigual simplemente se desconecta.
 
@@ -42,7 +42,7 @@ VOLTAJE= intensidad x resistencia
 
 Rsistencia= Vltaje/Intensidad
 
-###POR QUE NECESITAMOS RESISTENCIAS CON LOS LEDS
+### POR QUE NECESITAMOS RESISTENCIAS CON LOS LEDS
 
 Tenemos 2 circuitos
 
