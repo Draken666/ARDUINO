@@ -61,7 +61,8 @@ He entrado al arduino y me da un error
 
 Hemos probado el arduino con  la app y no funcioanaba porque no esta configurado, sale un error.
 
-![Captura de pantalla de 2021-10-13 13-30-42](https://user-images.githubusercontent.com/90753279/137124696-7549308a-e780-45d6-9598-f8b86bf592df.png)
+![Captura de pantalla de 2021-10-13 13-39-05](https://user-images.githubusercontent.com/90753279/137125752-c2abf9d5-c47c-4ed2-95e4-b9f28e50a1fe.png)
+
 
 Hemos escritos nuestros nombres en codigo morse.
 
