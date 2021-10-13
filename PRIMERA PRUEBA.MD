@@ -60,7 +60,6 @@ He entrado al arduino y me da un error
 ![lol](https://user-images.githubusercontent.com/90753279/137111649-c3de9333-392e-4f89-9fec-2daa99c80a1c.png)
 
 
-![Captura de pantalla de 2021-10-13 12-56-39](https://user-images.githubusercontent.com/90753279/137124557-c18f0e99-9f4d-42d7-9b6d-8c2e924211fb.png)
 
 
 
