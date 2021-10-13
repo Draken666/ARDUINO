@@ -1,7 +1,5 @@
 ## MORSE 1
 
-![Captura de pantalla de 2021-10-13 13-30-42](https://user-images.githubusercontent.com/90753279/137124696-7549308a-e780-45d6-9598-f8b86bf592df.png)
-Hemos probado el arduino con  la app y no funcioanaba porque no esta configurado, sale un error.
 
 ![Captura de pantalla de 2021-10-06 12-05-16](https://user-images.githubusercontent.com/90753279/136183115-55c765dd-009f-42ca-9f50-0aa42993b227.png)
 
@@ -60,6 +58,10 @@ El voltaje de los dos circuitos son 5v
 He entrado al arduino y me da un error
 
 ![lol](https://user-images.githubusercontent.com/90753279/137111649-c3de9333-392e-4f89-9fec-2daa99c80a1c.png)
+
+
+![Captura de pantalla de 2021-10-13 13-30-42](https://user-images.githubusercontent.com/90753279/137124696-7549308a-e780-45d6-9598-f8b86bf592df.png)
+Hemos probado el arduino con  la app y no funcioanaba porque no esta configurado, sale un error.
 
 
 
