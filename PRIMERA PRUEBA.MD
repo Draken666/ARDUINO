@@ -67,8 +67,11 @@ Hemos probado el arduino con  la app y no funcioanaba porque no esta configurado
 Hemos escritos nuestros nombres en codigo morse.
 
 La j esta en la segunda raya
+
 La o esta en la cuarta raya
+
 La a hasta el siguiente punto
+
 La n las dos rayas y puntos que quedan
 
 
