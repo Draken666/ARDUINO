@@ -87,6 +87,10 @@ EXCEPCION: Son errores controlados desde el propio codigo suelem ser roomtimes.
 LAG: e sun retraso en las comunicaciones
 
 
+# PROGRAMACION
+
+Primero tenemos el arduino id instalado, tenemos un usuario con permisos, se conecta por USB, cargamos el programa, BLINK.ino, entramos al arduino id, le damos a archivo ejemplos 1. Basic, y dentro de alli blink
+
 
 
 
