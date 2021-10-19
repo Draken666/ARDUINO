@@ -87,7 +87,7 @@ EXCEPCION: Son errores controlados desde el propio codigo suelem ser roomtimes.
 LAG: e sun retraso en las comunicaciones
 
 
-# PROGRAMACION
+# MORSE1
 
 Primero tenemos el arduino id instalado, tenemos un usuario con permisos, se conecta por USB, cargamos el programa, BLINK.ino, entramos al arduino id, le damos a archivo ejemplos 1. Basic, y dentro de alli blink
 
@@ -108,7 +108,8 @@ Cambabamos el numero de arriba que tenai que se el mismo que el de abajo del tod
 3 DIGITAL WRITE( led, builtin, low) 
 4 DELAY (1000)
 
+delay: 1000= 1 seg  0'05 seg= 50 no lo podremos ver con nuestros ojos como parpadea.
 
-
+Hicimos un pulso largo y uno corto
 
 
