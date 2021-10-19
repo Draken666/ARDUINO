@@ -111,5 +111,3 @@ Cambabamos el numero de arriba que tenai que se el mismo que el de abajo del tod
 delay: 1000= 1 seg  0'05 seg= 50 no lo podremos ver con nuestros ojos como parpadea.
 
 Hicimos un pulso largo y uno corto
-
-
