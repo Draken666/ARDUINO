@@ -74,6 +74,20 @@ La a hasta el siguiente punto
 
 La n las dos rayas y puntos que quedan
 
+# FALLOS
+
+Bug: Es un error del programa, es decir el programa lo mandas hacer una cosa y hace otra.
+
+GLith: El glitch es un tipo de bug, grafico.
+
+Error: Es una operacion no permitida por el lenguaje de progrmacion que estemos utilizando, esto suele ocurrir en la ejecucion (roomtime), tambien hay errores de compilacion.
+
+EXCEPCION: Son errores controlados desde el propio codigo suelem ser roomtimes.
+
+LAG: e sun retraso en las comunicaciones
+
+
+
 
 
 
