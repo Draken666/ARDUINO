@@ -103,7 +103,10 @@ Hicimos que los leds, tubiesen delay es decir que havia un retraso de x sgundos 
   
 Cambabamos el numero de arriba que tenai que se el mismo que el de abajo del todo y los del medio el que estaba abajo del primero tenia que ser mas grande que el siguiente.
 
-
+1 SENTENCIA: digital write, high=1 low=0 
+2 DELAY: por defecto viene 1000 lo podemos cambiar
+3 DIGITAL WRITE( led, builtin, low) 
+4 DELAY (1000)
 
 
 
