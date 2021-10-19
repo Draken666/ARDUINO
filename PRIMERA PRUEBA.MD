@@ -99,6 +99,10 @@ Opciones para enlazarlo:
 2.Subirlo en otro
 3.Enlazar en primeras pruebas.md
 
+Hicimos que los leds, tubiesen delay es decir que havia un retraso de x sgundos que pongamos.
+  
+Cambabamos el numero de arriba que tenai que se el mismo que el de abajo del todo y los del medio el que estaba abajo del primero tenia que ser mas grande que el siguiente.
+
 
 
 
