@@ -91,11 +91,13 @@ LAG: e sun retraso en las comunicaciones
 
 Primero tenemos el arduino id instalado, tenemos un usuario con permisos, se conecta por USB, cargamos el programa, BLINK.ino, entramos al arduino id, le damos a archivo ejemplos 1. Basic, y dentro de alli blink
 
+Si no hay puerto, herraminetas, puerto y lo seleccionas, se soluciona esperando un min aprox sin tocar nada.
 
+Opciones para enlazarlo:
 
-
-
-
+1.Buscarlo por internet
+2.Subirlo en otro
+3.Enlazar en primeras pruebas.md
 
 
 
