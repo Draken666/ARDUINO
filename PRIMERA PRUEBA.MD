@@ -97,3 +97,5 @@ LAG: e sun retraso en las comunicaciones
 
 
 
+
+
