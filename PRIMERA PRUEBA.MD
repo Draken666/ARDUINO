@@ -124,3 +124,5 @@ Estas son las que tienen el cuerpo veix y una linea naranja
 SI el boton lo pulsamos pasa a low, si lo cambaimos de sitio el boton a uno x especifico ara lo contrario estara high. 
 
 Hay que tenr en cuneta la polaridad del led. La pata mas corta va hacia el ground y la larga hacia el voltage
+
+Da igual si la resistencia va detras o delante del led, conectaremos dos leds uno al pin 4 y el otro al pin 5
