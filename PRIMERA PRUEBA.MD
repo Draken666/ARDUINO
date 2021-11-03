@@ -111,3 +111,16 @@ Cambabamos el numero de arriba que tenai que se el mismo que el de abajo del tod
 delay: 1000= 1 seg  0'05 seg= 50 no lo podremos ver con nuestros ojos como parpadea.
 
 Hicimos un pulso largo y uno corto
+
+
+## SEGUNDA PRUEBA 
+
+Vamos a programar desde un software no desdee un hardware como hicimos el otro dia, vamos a ello
+
+Para poner un boton necesitamos una resistencia de 10.000 (OMNIOS)
+
+Estas son las que tienen el cuerpo veix y una linea naranja
+
+SI el boton lo pulsamos pasa a low, si lo cambaimos de sitio el boton a uno x especifico ara lo contrario estara high. 
+
+Hay que tenr en cuneta la polaridad del led. La pata mas corta va hacia el ground y la larga hacia el voltage
