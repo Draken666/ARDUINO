@@ -27,6 +27,26 @@ por ejemplo el 25 de diciembre
 
 ![Codigo 25 de diciembre](https://github.com/Draken666/ARDUINO/blob/main/aaaaperro.ino)
 
+Ahora tenemos que traducir esto para nuestro arduino segun la frecuencia de notas que tenmos en el const int freqs[] siendo la primera el numero 0.
+
+Este seria el numeor de cada nota
+
+0 do  1 re  2 mi
+
+3 fa  4 sol 5 la
+
+6 si  16 sol sostenido
+
+ el 25 de dicimbre se usa el sol sostenido la cual en nuestras notas no esta asi que la añadi de ultima y seria el numero 16.
+
+ en el void tocar melodia vamos ayadir todas las notas con tocarNota(Numero de nota,duracion de nota)
+
+Necesito saber el tiempo de cada nota vamos a usar la melodia aqui podemos ver cuando duraria cada una:
+
+
+
+
+
 
 
 
