@@ -25,6 +25,8 @@ por ejemplo el 25 de diciembre
 
 ![imagen](https://user-images.githubusercontent.com/90753279/146927649-32a714f0-3d97-45d4-b5fe-971b54b0cb24.png)
 
+![Codigo 25 de diciembre](https://github.com/Draken666/ARDUINO/blob/main/aaaaperro.ino)
+
 
 
 
