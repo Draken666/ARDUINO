@@ -43,6 +43,9 @@ Este seria el numeor de cada nota
 
 Necesito saber el tiempo de cada nota vamos a usar la melodia aqui podemos ver cuando duraria cada una:
 
+![imagen](https://user-images.githubusercontent.com/90753279/146928801-e948bd46-e10e-46bf-92ea-cf8171de37cd.png)
+
+
 
 
 
