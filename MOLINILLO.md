@@ -25,7 +25,7 @@ void setup() {
    pinMode(motorPin, OUTPUT);
     pinMode(switchPin, INPUT);
 
-}//Fin de la funcion setup.
+}
 void loop() {
     switchState = digitalRead(switchPin);
 
