@@ -21,3 +21,5 @@ Al mirar el CI la parte que tiene hoyuelo que es la parte de arriba, pudes ident
 ## DATA SHEET
 
 [Pagina de salida] https://store.arduino.cc/products/arduino-starter-kit-multi-language
+
+Informacion de data sheet¡https://www.arduino.cc/documents/datasheets/H-bridge_motor_driver.PDF
