@@ -9,7 +9,9 @@ Los CI son componentes que contienen circuitos grandes en un paquete de tamaño 
 
 Ayudan a simplificar circuitos mas complejos al colocarlos  en un componente facil de remplazar
 
-¡https://github.com/Draken666/ARDUINO/blob/main/Captura%20de%20pantalla%20de%202022-01-19%2012-17-21.png¡
+![]https://github.com/Draken666/ARDUINO/blob/main/Captura%20de%20pantalla%20de%202022-01-19%2012-17-21.png
+
+
 #CON UN CI
 
 puedes acceder a una clavijas que salen por los lados, tienen numero de clavija, y no todas se utilizan para x circuito, cada clavija tiene una funcion
