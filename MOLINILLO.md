@@ -49,10 +49,5 @@ Y, en segundo lugar, los motores pueden generar su propia corriente atrevas de u
 La interfaz fue un poco difícil y entraña de crear, ya que el motor no solo era alimentado por la placa de Arduino, sino que necesita una batería de 9V adicional para poder funcionar.
 
 
-Cuando queremos cambiar la orientacion del molino, tendremos que poner el puente h: 
 
-Puente h: son un tipo de componente conocido como un circuito integrado.
 
-Los CI son componentes que contienen circuitos grandes en un paquete de tamaño reducido
-
-Ayudan a simplificar circuitos mas complejos al colocarlos  en un componente facil de remplazar
