@@ -36,3 +36,9 @@ void loop() {
     else {
         digitalWrite(motorPin, LOW);
     }
+
+```
+
+
+Este proyecto trata de conseguir que el Arduino haga girar un molinillo de colores con un motor.
+Para crear este circuito necesité un transistor mosfet, una resistencia de 10 kiloohmios, un diado 1N4007, un motor, una batería de 9 V, un interruptor y un broche de presión de la batería.
