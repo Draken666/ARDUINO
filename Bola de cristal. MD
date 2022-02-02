@@ -1,4 +1,63 @@
 Hey hoy haremos bola de cristal Jvitasj es mi compañero.
 
 Este projecto consiste en hacer una bola de cristal en nuestra protoboard a través de una pantalla lcd y así predecir nuestro futuro,
-como haría mismamente una bola de cristal. No únicamente usaremos una pantalla lcd, si no que también haremos servir un interruptor de inclinación o un potenciómetro, como ya hemos utilizado en anteriores proyectos. En nuestro caso hemos cambiado algunas de las respuestas que nos podría decir la bola ya que no nos gustaban o no cabian en la pantalla.
+como haría mismamente una bola de cristal. No únicamente usaremos una pantalla lcd, 
+si no que también haremos servir un interruptor de inclinación o un potenciómetro, como ya hemos utilizado en anteriores proyectos. 
+En nuestro caso hemos cambiado algunas de las respuestas que nos podría decir la bola ya que no nos gustaban o no cabian en la pantalla.
+
+
+
+ C++ 
+
+#include <LiquidCrystal.h>
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+const int switchPin = 6;
+int switchState = 0;
+int prevSwitchState = 0;
+int reply;
+void setup() {
+  lcd.begin(16,2);
+  pinMode(switchPin,INPUT);
+  lcd.print("Que dice");
+  lcd.setCursor(0, 1);
+  lcd.print("la bola");
+}
+void loop(){
+  switchState = digitalRead(switchPin);
+  if (switchState != prevSwitchState) {
+    if (switchState == LOW) {
+      reply = random(8);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+      lcd.print("La bola dice:");
+      lcd.setCursor(0, 1);
+      switch(reply){
+        case 0:
+        lcd.print("Si");
+        break;
+         case 1:
+        lcd.print("Probablemente");
+        break;
+         case 2:
+        lcd.print("Desde Luego");
+        break;
+         case 3:
+        lcd.print("Pinta bien");
+        break;
+         case 4:
+        lcd.print("Pinta mal");
+        break;
+         case 5:
+        lcd.print("Otra vez sera");
+        break;
+         case 6:
+        lcd.print("Lo dudo");
+        break;
+         case 7:
+        lcd.print("No");
+        break;
+      }
+    }
+  }
+  prevSwitchState = switchState;
+}
