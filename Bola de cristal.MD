@@ -3,7 +3,7 @@ Hey hoy haremos bola de cristal Jvitasj es mi compañero.
 Este projecto consiste en hacer una bola de cristal en nuestra protoboard a través de una pantalla lcd y así predecir nuestro futuro,
 como haría mismamente una bola de cristal. No únicamente usaremos una pantalla lcd, 
 si no que también haremos servir un interruptor de inclinación o un potenciómetro, como ya hemos utilizado en anteriores proyectos. 
-En nuestro caso hemos cambiado algunas de las respuestas que nos podría decir la bola ya que no nos gustaban o no cabian en la pantalla.
+
 
 
 ## CODIGO 
@@ -61,3 +61,5 @@ void loop(){
   prevSwitchState = switchState;
 }
 ```
+
+[Fotos de las respuestas de la bola](https://github.com/Draken666/ARDUINO/blob/main/IMG_20220202_131717.jpg)
