@@ -6,7 +6,7 @@ si no que también haremos servir un interruptor de inclinación o un potencióm
 En nuestro caso hemos cambiado algunas de las respuestas que nos podría decir la bola ya que no nos gustaban o no cabian en la pantalla.
 
 
-##CODIGO 
+## CODIGO 
 ```C++
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
