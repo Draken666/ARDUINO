@@ -6,6 +6,7 @@
 Hoy haremos el joystick, que este projecto se basa en encender un led dandole al joystick o pulsandolo
 No puedes haver dos loops o setup
 El boton tiene que estar conectado con
+
 GND. -> Ground, toma tierra, 0V de potencial eléctrico.
 
 5V -> Voltaje de 5V. Esto hay que conectarlo a los 5 voltios de potencia para que pueda ser leído correctamente.
@@ -17,7 +18,7 @@ VRy -> Este es el Voltaje Regulado en el eje Y vertical. Hay que conectarlo a un
 SW -> Switch. Este es el botón. Al estar ya integrado se puede conectar directamente a un pin digital sin tener que incluir la resistencia. Sin embargo este es un botón PULL UP en vez de un botón PULL DOWN (que es lo que hemos realizado en el resto del curso). Esto significa que cuando está sin pulsar leerá 1 (o HIGH) y cuando esté pulsado leerá 0 (o LOW).
 
 ## CODIGO
-
+```++
 const int pinLED = 6;
 const int pinJoyX = A0;
 const int pinJoyY = A1;
@@ -65,3 +66,7 @@ void loop() {
 //}
 
 [fOTOS DEL JOYSTICK](https://github.com/Draken666/ARDUINO/blob/main/IMG_20220209_124352.jpg)
+
+
+
+
