@@ -15,13 +15,25 @@ Arduino es una plataforma de creación de electrónica de código abierto, la cu
 1 Teclado Instrumental
 
 2 Lampara de colores
+
 3 Love o metter
+
 4 Killswitch and snipers
+
 5 Lampara Tactil
+
 6 Nave interfaz.MD
+
 7 Indicador de estado de animo
+
+
 8 Zootropo
+
 9 Bola de cristal
+
 10 Villancico
+
 11 Molinillo
+
 12 Temperatura
+
