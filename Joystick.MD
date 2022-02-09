@@ -64,7 +64,7 @@ void loop() {
 //Serial.print("X:")
 //delay(250) 
 //}
-
+```
 [fOTOS DEL JOYSTICK](https://github.com/Draken666/ARDUINO/blob/main/IMG_20220209_124352.jpg)
 
 
