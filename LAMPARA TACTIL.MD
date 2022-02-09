@@ -54,3 +54,5 @@ void loop() {
         delay(10);
 
 }//Fin de la funcion loop.
+
+MAYORIA DE INFORMACKION SACADA DE: https://elgatoinquieto.wordpress.com/2014/06/13/arduino-capitulo-15-lampara-tactil/
