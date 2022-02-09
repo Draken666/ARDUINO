@@ -37,3 +37,5 @@ Arduino es una plataforma de creación de electrónica de código abierto, la cu
 
 12 Temperatura
 
+13 Cerrojo
+
