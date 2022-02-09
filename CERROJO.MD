@@ -8,7 +8,7 @@ como referencia para la toma de tierra para que esto funcione bien.
 
 ## CODIGO
 
-```
+```C++
 
 
 Servo myServo;
@@ -156,13 +156,13 @@ boolean checkForKnock(int value){
         return false;
 
     }
+```   
+    
+    DAF
     
     
     
-    
-    
-    
-    ```
+  
     ![imagen](https://user-images.githubusercontent.com/90753279/153201896-8e167c96-5979-45e8-a322-123b9fbc4509.png)
 
 
